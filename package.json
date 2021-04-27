@@ -1,0 +1,83 @@
+{
+  "bundleDependencies": false,
+  "configSchema": {
+    "fontSize": {
+      "title": "Font Size",
+      "description": "Change the font size for the UI.",
+      "type": "integer",
+      "default": 12,
+      "enum": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "order": 1
+    },
+    "tabSizing": {
+      "title": "Tab Sizing",
+      "description": "In Even mode all tabs will be the same size. Great for quickly closing many tabs. In Maximum mode the tabs will expand to take up the full width. In Minimum mode the tabs will only take as little space as needed and also show longer file names.",
+      "type": "string",
+      "default": "Even",
+      "enum": [
+        "Even",
+        "Maximum",
+        "Minimum"
+      ],
+      "order": 2
+    },
+    "tabCloseButton": {
+      "title": "Tab Close Button",
+      "description": "Choose the position of the close button shown in tabs.",
+      "type": "string",
+      "default": "Right",
+      "enum": [
+        "Left",
+        "Right"
+      ],
+      "order": 3
+    },
+    "hideDockButtons": {
+      "title": "Hide dock toggle buttons",
+      "description": "Note: When hiding the toggle buttons, opening a dock needs to be done by using the keyboard or other alternatives.",
+      "type": "boolean",
+      "default": "false",
+      "order": 4
+    },
+    "stickyHeaders": {
+      "title": "Make tree-view project headers sticky",
+      "type": "boolean",
+      "default": "false",
+      "order": 5
+    }
+  },
+  "deprecated": false,
+  "description": "Atom One light UI theme with bug fix",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "adaptive",
+    "textadept",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "lib/main",
+  "name": "textadept-light-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lua-rocks/atom-textadept-light-ui"
+  },
+  "theme": "ui",
+  "version": "0.0.0"
+}
