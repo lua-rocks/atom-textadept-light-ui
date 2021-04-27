@@ -5,4 +5,6 @@ love.
 
 Please use it together with [textadept-light-syntax](https://github.com/lua-rocks/atom-textadept-light-syntax).
 
+If theme looks ugly after first activation - just reload Atom.
+
 ![A screenshot of your theme](https://i.imgur.com/y89Lw6p.png)
