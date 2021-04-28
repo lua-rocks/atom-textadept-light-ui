@@ -9,6 +9,4 @@ Please use it together with [textadept-light-syntax](https://github.com/lua-rock
 apm install textadept-light-syntax textadept-light-ui
 ```
 
-If theme looks ugly after first activation - just reload Atom.
-
 ![Screenshot](https://i.imgur.com/vgu4NGD.png)
