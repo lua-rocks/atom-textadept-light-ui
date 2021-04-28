@@ -7,4 +7,4 @@ Please use it together with [textadept-light-syntax](https://github.com/lua-rock
 
 If theme looks ugly after first activation - just reload Atom.
 
-![A screenshot of your theme](https://i.imgur.com/y89Lw6p.png)
+![Screenshot](https://i.imgur.com/vgu4NGD.png)
