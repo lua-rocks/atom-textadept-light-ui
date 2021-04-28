@@ -59,7 +59,7 @@
     }
   },
   "deprecated": false,
-  "description": "Atom One light UI theme with bug fix",
+  "description": "The theme stolen from Textadept with love",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
