@@ -76,7 +76,7 @@
   "name": "textadept-light-ui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lua-rocks/atom-textadept-light-ui"
+    "url": "git@github.com:lua-rocks/atom-textadept-light-ui.git"
   },
   "theme": "ui",
   "version": "0.0.0"
